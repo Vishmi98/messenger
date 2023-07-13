@@ -158,7 +158,7 @@ const AuthForm = () => {
                     </div>
                 </div>
 
-                <div className="flex gap-2 justify-center text-sm mt-6 px-2 text-gray-500">
+{/*                 <div className="flex gap-2 justify-center text-sm mt-6 px-2 text-gray-500">
                     <div>
                         {variant === 'LOGIN' ? 'New to Messenger?' : 'Already have an account?'}
                     </div>
@@ -168,7 +168,7 @@ const AuthForm = () => {
                     >
                         {variant === 'LOGIN' ? 'Create an account' : 'Login'}
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     )
