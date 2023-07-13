@@ -10,7 +10,7 @@ export default function Home() {
           height="48"
           width="48"
           className="mx-auto w-auto"
-          src="https://beemden.nl/wp-content/uploads/2021/08/buddy-tekst.png"
+          src="/images/buddy.png"
         />
         <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
           Sign in your account
