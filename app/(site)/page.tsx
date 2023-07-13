@@ -7,8 +7,8 @@ export default function Home() {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <Image
           alt="Logo"
-          height="100"
-          width="150"
+          height="200"
+          width="200"
           className="mx-auto w-auto"
           src="/images/buddy.png"
         />
